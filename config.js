@@ -2,19 +2,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // Other
-global.owner = ['6285815975368']
-global.premium = ['6285815975368']
-global.ownername = 'Liya'
-global.botname = 'AliyaBot'
-global.packname = '© by AliyaBot'
+global.owner = ['6282146218274']
+global.premium = ['6282146218274']
+global.ownername = 'RielGanzz'
+global.botname = 'Khurushi-Md'
+global.packname = '© by RielGanzz'
 global.gc = 'https://bit.ly/3KMlmv2'
 global.linkyt = 'https://youtube.com/channel/UC9Si3U0o9dGS9MDfJR5iF6Q'
 global.linkgc = 'https://chat.whatsapp.com/DwP6uHYBWBc6TBSsNJrzwN'
 global.limitawal = '100'
-global.author = '@alya.xzy'
+global.author = '@Riel.xzy'
 global.sessionName = 'polo'
 global.prefa = ['','!','.','🐦','🐤','🗿']
-global.sp = 'terserah'
+global.sp = '•'
 global.mess = {
     success: 'Berhasil',
     admin: 'Fitur Khusus Admin Group!',
@@ -30,7 +30,7 @@ global.limitawal = {
     premium: "Infinity",
     free: 100
 }
-global.gambar = 'https://telegra.ph/file/7858fc96fffda74b3ab44.jpg' //disini gambar bot nya lu bisa ganti pink gambar ini dengan link gambar punya lu
+global.gambar = 'https://telegra.ph/file/cc2695cccc86cef4cb74a.jpg' //disini gambar bot nya lu bisa ganti pink gambar ini dengan link gambar punya lu
 global.sc = fs.readFileSync('./media/sc.jpg')
 global.tq = fs.readFileSync('./media/tq.jpg')
 global.menu = fs.readFileSync('./media/menu.jpg')
