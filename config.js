@@ -2,11 +2,11 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // Other
-global.owner = ['6282146218274']
-global.premium = ['6282146218274']
-global.ownername = 'RielGanzz'
-global.botname = 'Khurushi-Md'
-global.packname = '© by RielGanzz'
+global.owner = ['6285731497594']
+global.premium = ['6285731497594']
+global.ownername = 'RERECANS🌸'
+global.botname = 'REREBOTZ-Md🌸'
+global.packname = '© by rere,'
 global.gc = 'https://bit.ly/3KMlmv2'
 global.linkyt = 'https://youtube.com/channel/UC9Si3U0o9dGS9MDfJR5iF6Q'
 global.linkgc = 'https://chat.whatsapp.com/DwP6uHYBWBc6TBSsNJrzwN'
@@ -35,7 +35,7 @@ global.sc = fs.readFileSync('./media/sc.jpg')
 global.tq = fs.readFileSync('./media/tq.jpg')
 global.menu = fs.readFileSync('./media/menu.jpg')
 global.allmenu = fs.readFileSync('./media/allmenu.jpg')
-global.thumb = { url: 'https://i.pinimg.com/736x/d0/f8/b8/d0f8b804a908ce4aaee63d54035d2192.jpg' }
+global.thumb = { url: 'https://telegra.ph/file/0b5e70dba01209bbd93b2.jpg' }
 global.visoka = { url: 'https://telegra.ph/file/769d88bb8c8357546a149.mp4' }
 
 let file = require.resolve(__filename)
