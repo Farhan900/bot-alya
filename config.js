@@ -2,11 +2,11 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // Other
-global.owner = ['6285731497594']
-global.premium = ['6285731497594']
-global.ownername = 'RERECANS🌸'
-global.botname = 'REREBOTZ-Md🌸'
-global.packname = '© by rere,'
+global.owner = ['6282146218274']
+global.premium = ['6282146218274']
+global.ownername = 'MELLYCANS🌸'
+global.botname = 'MELLYBOTZ-Md🌸'
+global.packname = '© by MELLY'
 global.gc = 'https://bit.ly/3KMlmv2'
 global.linkyt = 'https://youtube.com/channel/UC9Si3U0o9dGS9MDfJR5iF6Q'
 global.linkgc = 'https://chat.whatsapp.com/DwP6uHYBWBc6TBSsNJrzwN'
